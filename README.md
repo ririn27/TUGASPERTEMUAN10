@@ -1,4 +1,6 @@
-# Belajar membuat Tab Layout dengan Fragment android java
+# mohon maaf bapak data nya hilang yangdisini
 
-#### Berikut output program :
+#jadi bikin folder baru di bawah ini
 
+
+https://github.com/ririn27/TUGASPERTEMUAN_10.git
